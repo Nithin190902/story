@@ -1,2 +1,3 @@
 this is the story two
 this is dog story
+edit from new_plot branch
